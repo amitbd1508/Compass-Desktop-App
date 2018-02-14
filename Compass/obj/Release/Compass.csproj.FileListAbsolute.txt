@@ -1,0 +1,9 @@
+C:\Users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\bin\Release\Compass.exe.config
+C:\Users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\bin\Release\Compass.exe
+C:\Users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\bin\Release\Compass.pdb
+C:\Users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\obj\Release\Compass.csprojResolveAssemblyReference.cache
+C:\Users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\obj\Release\Compass.Form1.resources
+C:\Users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\obj\Release\Compass.Properties.Resources.resources
+C:\Users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\obj\Release\Compass.csproj.GenerateResource.Cache
+C:\Users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\obj\Release\Compass.exe
+C:\Users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\obj\Release\Compass.pdb

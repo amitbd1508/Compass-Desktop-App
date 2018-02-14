@@ -1,0 +1,18 @@
+c:\users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\bin\Debug\Compass.exe.config
+c:\users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\obj\Debug\Compass.csprojResolveAssemblyReference.cache
+c:\users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\obj\Debug\Compass.Form1.resources
+c:\users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\obj\Debug\Compass.Properties.Resources.resources
+c:\users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\obj\Debug\Compass.csproj.GenerateResource.Cache
+c:\users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\bin\Debug\Compass.exe
+c:\users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\bin\Debug\Compass.pdb
+c:\users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\obj\Debug\Compass.exe
+c:\users\pkatsche\documents\visual studio 2012\Projects\Compass\Compass\obj\Debug\Compass.pdb
+E:\working file\Compass\Compass\bin\Debug\Compass.exe.config
+E:\working file\Compass\Compass\obj\Debug\Compass.exe
+E:\working file\Compass\Compass\obj\Debug\Compass.pdb
+E:\working file\Compass\Compass\bin\Debug\Compass.exe
+E:\working file\Compass\Compass\bin\Debug\Compass.pdb
+E:\working file\Compass\Compass\obj\Debug\Compass.csprojResolveAssemblyReference.cache
+E:\working file\Compass\Compass\obj\Debug\Compass.Form1.resources
+E:\working file\Compass\Compass\obj\Debug\Compass.Properties.Resources.resources
+E:\working file\Compass\Compass\obj\Debug\Compass.csproj.GenerateResource.Cache
