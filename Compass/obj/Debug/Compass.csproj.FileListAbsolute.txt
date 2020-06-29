@@ -16,3 +16,12 @@ E:\working file\Compass\Compass\obj\Debug\Compass.csprojResolveAssemblyReference
 E:\working file\Compass\Compass\obj\Debug\Compass.Form1.resources
 E:\working file\Compass\Compass\obj\Debug\Compass.Properties.Resources.resources
 E:\working file\Compass\Compass\obj\Debug\Compass.csproj.GenerateResource.Cache
+H:\HP MY LAPTOP\others\Code\Compass\Compass\bin\Debug\Compass.exe.config
+H:\HP MY LAPTOP\others\Code\Compass\Compass\bin\Debug\Compass.exe
+H:\HP MY LAPTOP\others\Code\Compass\Compass\bin\Debug\Compass.pdb
+H:\HP MY LAPTOP\others\Code\Compass\Compass\obj\Debug\Compass.csprojAssemblyReference.cache
+H:\HP MY LAPTOP\others\Code\Compass\Compass\obj\Debug\Compass.Form1.resources
+H:\HP MY LAPTOP\others\Code\Compass\Compass\obj\Debug\Compass.Properties.Resources.resources
+H:\HP MY LAPTOP\others\Code\Compass\Compass\obj\Debug\Compass.csproj.GenerateResource.cache
+H:\HP MY LAPTOP\others\Code\Compass\Compass\obj\Debug\Compass.exe
+H:\HP MY LAPTOP\others\Code\Compass\Compass\obj\Debug\Compass.pdb
