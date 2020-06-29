@@ -2,4 +2,4 @@
 
 # Screenshot
 
- ![Demo](1.JPG)
+ ![Demo](1.PNG)
